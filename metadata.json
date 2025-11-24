@@ -1,0 +1,9 @@
+{
+  "name": "GreenLens",
+  "description": "AI-powered litter detection and waste hotspot tracker.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
